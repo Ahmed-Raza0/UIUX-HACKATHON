@@ -31,7 +31,7 @@ const AirMax = () => {
                   Nike Air Max Pulse
                 </h1>
                 <h1 className="text-[15px] text-center text-[#757575]">
-                  Women's Shoes
+                  Women&apos;s Shoes
                 </h1>
               </div>
               <h1 className="font-medium text-[15px] text-right text-[#111111]">
@@ -53,7 +53,7 @@ const AirMax = () => {
                   Nike Air Max Pulse
                 </h1>
                 <h1 className="text-[15px] text-center text-[#757575]">
-                  Men's Shoes
+                  Men&apos;s Shoes
                 </h1>
               </div>
               <h1 className="font-medium text-[15px] text-right text-[#111111]">
@@ -75,7 +75,7 @@ const AirMax = () => {
                   Nike Air Max Pulse
                 </h1>
                 <h1 className="text-[15px] text-center text-[#757575]">
-                  Men's Shoes
+                  Men&apo;s Shoes
                 </h1>
               </div>
               <h1 className="font-medium text-[15px] text-right text-[#111111]">
