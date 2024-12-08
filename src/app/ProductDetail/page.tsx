@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 const page = () => {
     return (
@@ -48,7 +49,7 @@ const page = () => {
                                 height={21.8}
                                 className="w-[24px] h-[24px]"
                             />
-                            <h1 className="text-[15px] font-medium text-white ml-2">Add To Cart</h1>
+                            <Link href='/Cart/' className="text-[15px] font-medium text-white ml-2">Add To Cart</Link>
                         </button>
                     </div>
                 </div>
