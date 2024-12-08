@@ -9,7 +9,7 @@ const Featured = () => {
         </h1>
         <div className="w-full max-w-[1344px] h-auto flex flex-col mt-3 items-center justify-center">
           <Image
-            src="/images/Image3.svg"
+            src="/images/image3.svg"
             alt="image"
             width={1344}
             height={700}
