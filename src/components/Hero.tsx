@@ -1,8 +1,10 @@
 import Image from "next/image";
+ 
 
 const Hero = () => {
   return (
     <div>
+       
       <div className="w-full h-auto flex flex-col items-center -top-1 justify-center px-4 sm:px-6 lg:px-10 xl:px-16">
         <h1 className="text-center text-[#111111] text-[15px] sm:text-[16px] md:text-[18px]">
           Hello Nike App

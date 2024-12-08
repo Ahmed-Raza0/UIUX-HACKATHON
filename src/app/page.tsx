@@ -6,11 +6,13 @@ import Featured from "@/components/Featured";
 import GearUp from "@/components/GearUp";
 import Hero from "@/components/Hero";
 import Icons from "@/components/icons";
+import Link from "next/link";
  
 
 export default function Home() {
   return (
          <div>
+          <Link href="/Product"> 
          <Hero />
          <AirMax />
          <Featured />
@@ -18,6 +20,8 @@ export default function Home() {
          <DontMiss />
          <Essential />
          <Icons />
+         </Link>
+
          </div>
   );
 }
